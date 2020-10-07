@@ -8,12 +8,7 @@ gelombang radio/udara penerapan dari aplikasi wireless network iini antara lain 
 ![Image](pass.photo.jpg)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+#
 
 # Header 1
 ## Header 2
