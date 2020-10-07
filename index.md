@@ -1,6 +1,10 @@
 ## keamanan jaringan
-# keamanan jaringan
-tugas tugas 
+# keamanan jaringan 
+Defenisi
+wireless atau wireless network merupakan sekumpulan perangakat elektronik yang saling terhubung dengan lainnya sehingga terbentuk sebuah jaringan komunikasi
+data dengan menggunakan media udara/gelombang sebagai jalurlintas datanya,jika LAN masih menggunakan kabel sebagai media lintas data,sedangkan wireless menggunakan media
+gelombang radio/udara penerapan dari aplikasi wireless network iini antara lain adalah jaringan nrikibel prusahaan atau mobile communication seperti handphone dan HT
+
 ![Image](pass.photo.jpg)
 
 You can use the [editor on GitHub](https://github.com/gilberthravafi/Jaringan-Nirkabel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
